@@ -1,0 +1,3 @@
+[submodule "software/lib/QuickButton"]
+	path = software/lib/QuickButton
+	url = https://github.com/Leczok12/QuickButton.git
