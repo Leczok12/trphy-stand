@@ -17,4 +17,6 @@ constexpr int PIN_SW3 = 12;
 constexpr int PIN_LED = 5;
 constexpr int LED_LENGTH = 18;
 
+constexpr int LED_MODES = 3;
+
 #endif
